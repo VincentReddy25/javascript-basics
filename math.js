@@ -1,0 +1,18 @@
+// Named Export
+const add = (num1, num2) => num1 + num2
+
+const sub = (num1, num2) => num1 - num2
+
+const mul = (num1, num2) => num1 * num2
+
+const div = (num1, num2) => num1 / num2
+
+export { add, sub, mul, div }
+
+
+
+// Default Export
+const myFun = () => {
+    return 25;
+}
+export default myFun;
