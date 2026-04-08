@@ -1,159 +1,159 @@
-# Syllabus
-    - Intro to JavaScript
+### Syllabus
+- Intro to JavaScript
 
-    - Variables
-        - var
-        - let
-        - const
+- Variables
+    - var
+    - let
+    - const
 
-    - Data types
-        - number
-        - string
-        - boolean
-        - bigint
-        - undefined
-        - object
-        - function
+- Data types
+    - number
+    - string
+    - boolean
+    - bigint
+    - undefined
+    - object
+    - function
 
-    - Operators
-        - Arithmetic Operators
-        - Assignment Operators
-        - Comparison Operators
-        - Logical Operators
-        - Unary Operators
-        - Ternary Operator
-        - Type Operator
-        - Spread & Rest
-        - Nullish Coalescing
-        - Optional chaining
-        
-    - Control Flow
-        - if
-        - if...else
-        - if...else if...else
-        - switch
+- Operators
+    - Arithmetic Operators (**)
+    - Assignment Operators
+    - Comparison Operators (=== / !== - strict operators)
+    - Logical Operators
+    - Unary Operators
+    - Ternary Operator
+    - Type Operator
+    - Spread & Rest
+    - Nullish Coalescing
+    - Optional chaining  
 
-        - for
-        - while
-        - do...while
-        - for...of (arrays)
-        - for...in (objects)
-        - break & continue
-        
-    - Arrays
-        - creating
-        - accessing
-        - modifying
-        - methods
-            - length
-            - push
-            - pop
-            - shift
-            - unshift ...
-        - spread
-        - Higher order methods
-            - foreach
-            - map
-            - every
-            - some
-            - filter
-            - reduce
-        - Destructuring
+- Control Flow
+    - if
+    - if...else
+    - if...else if...else
+    - switch
 
-    - Objects
-        - creating
-        - accessing
-        - deleting
-        - methods
-            - keys
-            - values
-            - entries
-        - destructuring
+    - for
+    - while
+    - do...while
+    - for...of (arrays)
+    - for...in (objects)
+    - break & continue
+    
+- Arrays
+    - creating
+    - accessing
+    - modifying
+    - methods
+        - length
+        - push
+        - pop
+        - shift
+        - unshift ...
+    - spread
+    - Higher order methods
+        - foreach
+        - map
+        - every
+        - some
+        - filter
+        - reduce
+    - Destructuring
 
-    - Functions
-        - Declaration
-        - Expression
-        - Anonymous
-        - Arrow 
-        - Higher Order Functions (HOF)
-        - Callback
-        - IIFE
-        - Clouser
-        - Generator
+- Objects
+    - creating
+    - accessing
+    - deleting
+    - methods
+        - keys
+        - values
+        - entries
+    - destructuring
 
-    - DOM
-        - document
-        - document.head
-        - document.body
+- Functions
+    - Declaration
+    - Expression
+    - Anonymous
+    - Arrow 
+    - Higher Order Functions (HOF)
+    - Callback
+    - IIFE
+    - Clouser
+    - Generator
 
-        - document.getElementById
-        - document.getElementsByClassName
-        - document.getElementsByTagName
-        - document.querySelector
-        - document.querySelectorAll
+- DOM
+    - document
+    - document.head
+    - document.body
 
-        - <element>.textContent
-        - <element>.innerText
-        - <element>.innerHTML
+    - document.getElementById
+    - document.getElementsByClassName
+    - document.getElementsByTagName
+    - document.querySelector
+    - document.querySelectorAll
 
-        - <element>.style.<styles>
+    - element.textContent
+    - element.innerText
+    - element.innerHTML
 
-        - <element>.setAttribute()
-        - <element>.getAttribute()
+    - element.style.css_property
 
-        - <element>.createElement()
-        - <elemtns>.appendChild()
+    - element.setAttribute()
+    - element.getAttribute()
 
-        - <elemtns>.remove()
+    - element.createElement()
+    - element.appendChild()
 
-        - <element>.classList.add
-        - <element>.classList.remove
-        - <element>.classList.toggle
+    - element.remove()
 
-    - BOM
-        - window
-        - alert
-        - confirm
-        - prompt
-        - location ...
+    - element.classList.add
+    - element.classList.remove
+    - element.classList.toggle
 
-
-    - Event Handling and Listeners
-        - click
-        - change
-        - submit
-        - input
-        - mouse
-        - key ...
-        - removing event
-        - Bubbling
-        - Delegation
+- BOM
+    - window
+    - alert
+    - confirm
+    - prompt
+    - location ...
 
 
-    - Modules (import / export)
-        - default
-        - named
+- Event Handling and Listeners
+    - click
+    - change
+    - submit
+    - input
+    - mouse
+    - key ...
+    - removing event
+    - Bubbling
+    - Delegation
 
-    - Error handling
-        - Types
-            - ReferenceError
-            - TypeError
-            - SyntaxError
-            - RangeError
-        - try
-        - catch
-        - finally
-        - throw
 
-    - Async JS
-        - fetch
-        - async / await
-        - promises
+- Modules (import / export)
+    - default
+    - named
 
-    - storage
-        - local
-        - session
-        - cookies
+- Error handling
+    - Types
+        - ReferenceError
+        - TypeError
+        - SyntaxError
+        - RangeError
+    - try
+    - catch
+    - finally
+    - throw
+
+- Async JS
+    - fetch
+    - async / await
+    - promises
+
+- storage
+    - local
+    - session
+    - cookies
 
 
 # Concepts
