@@ -1,0 +1,9 @@
+#menubar {
+    border: 2px solid black;   
+    height: 90vh;
+    width: 300px;
+}
+
+.hideMenu {
+    width: 0 !important;
+}

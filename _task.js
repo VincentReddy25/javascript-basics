@@ -26,3 +26,4 @@ const doMath = (num1, num2, op) => {
 }
 
 doMath(2, 3, "*")
+
